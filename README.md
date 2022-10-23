@@ -5,7 +5,7 @@ Quotes from Steins;Gate to use with the [fortune](https://en.wikipedia.org/wiki/
 ## How to install
 
 ### If you want those to appear in the regular fortune command
-Place `steins-gate` and `steins-gate.dat` in the `/usr/share/fortune/` folder  
+Place or symlink `steins-gate` and `steins-gate.dat` in the `/usr/share/fortune/` folder  
 Now they have a chance to run using the regular `fortune` command, and you can get a garanted Steins;Gate one using `fortune steins-gate` no matter your current directory
 
 ### If you don't want those to appear in the regular fortune command
